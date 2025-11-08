@@ -1,0 +1,5 @@
+{
+  "name": "APNA ADDA working",
+  "description": "A modern online learning platform where students can browse and watch video lectures, download notes, and filter courses by subjects. Features include user authentication, a full-featured admin panel for content management powered by Firebase, and AI-assisted content creation with Gemini.",
+  "requestFramePermissions": []
+}
